@@ -1,0 +1,48 @@
+body,html{ 
+height:100px;
+  margin:10;
+}
+#wrap{
+  background-color:white;
+  marging:auto;
+  width:700px;
+  border:5px solid rgb(255, 0, 0);
+  padding:0.7em;
+}
+.bg { 
+background: url("https://thumbs.dreamstime.com/z/cute-background-cartoon-pink-whales-baby-shower-design-seamless-pattern-can-be-used-wallpapers-pattern-fills-web-page-65451059.jpg")no-repeat;
+}
+h2{ 
+color:orange;
+}
+.boxed{
+ background-color:white;
+  margin:auto;
+  max-width:60%;
+  border:2px solid black;
+  padding:10px
+}
+.daniella{ 
+background-color:grey;
+border:2px red solid;
+  margin: 10px;
+  padding: 20px
+}
+.hello { 
+background-color:brown;
+padding:30px;
+border:5px black solid;
+}
+p { 
+font-size:40px;
+  color:rgb(0, 41, 128);
+  text-align:center;
+  margin:20px;
+}
+#main { 
+font-size:20px;
+}
+a{ 
+font-size:30px;
+color:black;
+}
